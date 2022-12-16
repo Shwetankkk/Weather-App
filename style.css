@@ -1,0 +1,13 @@
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+body{
+  background-color: black;
+}
+
+.banner {
+    color: #ffa31a;
+    font-family: monospace;
+}
